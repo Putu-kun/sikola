@@ -3,9 +3,10 @@ Sikola merupakan sebuah project coding untuk memenuhi nilai Tugas Akhir (Terdapa
 Sikola(Sistem Informasi Sekolah) menggunakan :
 - Framework Code Igniter 3
 - XAMPP
-- Bahasa Pemrograman PHP, CSS, Jquery
+- Database Mysql
+- Bahasa Pemrograman PHP, CSS Bootstrap, Jquery
 
-Sikola adalah aplikasi sekolah berbasis website yang dibuat guna untuk membantu aktivitas kegiatan sekolah SMA Negeri 6 Bekasi dalam hal :
+Sikola adalah aplikasi sekolah berbasis website yang dibuat guna untuk membantu aktivitas kegiatan sekolah SMA Sandikta Bekasi dalam hal :
 1. Absensi
 2. Ujian
 3. Pengisian Nilai
